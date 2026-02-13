@@ -1,0 +1,7 @@
+{
+  "name": "SmartBill Manager",
+  "description": "An intelligent billing and account management app that uses AI to scan invoices, extract details like customer names and line items, and manage your balance sheet automatically.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
